@@ -10,5 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Seporsi Mie Ayam Sebelum Mati](ebook/Seporsi Mie Ayam Sebelum Mati.pdf) –  Brian Khrisna (2025)
 7. [Pengantar Metode Penelitian Hukum](ebook/Pengantar Metode Penelitian Hukum.pdf) – Nur Solikin (2021)
 8. [3726 MDPL](ebook/3726 MDPL.pdf) – Nurwina Sari (2021)
+9. [Lotus In The Mud](ebook/Lotus In The Mud.pdf) – Annelie (2023)
 ---
 Powered by GitHub Pages
