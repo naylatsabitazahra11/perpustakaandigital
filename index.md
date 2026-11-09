@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [3726 MDPL](ebook/3726 MDPL.pdf) – Nurwina Sari (2021)
 9. [Lotus In The Mud](ebook/Lotus In The Mud.pdf) – Annelie (2023)
 10. [Pergi](ebook/Pergi.pdf) – Tere Liye (2015)
+11. [Ini Bukan Novel](ebook/Ini Bukan Novel.pdf) – Rasdian Aisyah (2017)
 ---
 Powered by GitHub Pages
