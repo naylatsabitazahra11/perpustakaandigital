@@ -1,6 +1,12 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
+# Hello, Knowledge Seekers!
+Selamat datang di perpustakaan digital Athena'sCherry.
+
+Ruang Tanpa Batas untuk Menjelajahi Pengetahuan.
+
+Jelajahi berbagai koleksi digital yang kami hadirkan untuk mendukung kebutuhan informasi, pembelajaran, dan pengembangan wawasan.
 ## Koleksi
 1. [Ilmu Pendidikan Islam](ebook/Ilmu Pendidikan Islam.pdf) – Aris (2022) 
 2. [Kemahiran Matematika](ebook/Kemahiran Matematika.pdf) – Fadjar Shadiq (2009)
