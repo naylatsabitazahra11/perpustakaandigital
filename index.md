@@ -7,11 +7,11 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Matahari](ebook/Matahari.pdf) – Tere Liye (2016)
 4. [Bumi](ebook/Bumi.pdf) – Tere Liye (2014)
 5. [Persyaratan Umum Instalasi Listrik](ebook/Persyaratan Umum Instalasi Listrik.pdf) – Bartien Sayogo (2014)
-6. [Seporsi Mie Ayam Sebelum Mati](ebook/Seporsi Mie Ayam Sebelum Mati.pdf) –  Brian Khrisna (2025)
+6. [seporsi mie ayam sebelum mati](ebook/Seporsi Mie Ayam Sebelum Mati.pdf) –  Brian Khrisna (2025)
 7. [Pengantar Metode Penelitian Hukum](ebook/Pengantar Metode Penelitian Hukum.pdf) – Nur Solikin (2021)
 8. [3726 MDPL](ebook/3726 MDPL.pdf) – Nurwina Sari (2021)
-9. [Lotus In The Mud](ebook/Lotus In The Mud.pdf) – Annelie (2023)
-10. [Pergi](ebook/Pergi.pdf) – Tere Liye (2015)
-11. [Ini Bukan Novel](ebook/Ini Bukan Novel.pdf) – Rasdian Aisyah (2017)
+9. [lotus in the mud](ebook/Lotus In The Mud.pdf) – Annelie (2023)
+10. [pergi](ebook/Pergi.pdf) – Tere Liye (2015)
+11. [ini bukan novel](ebook/Ini Bukan Novel.pdf) – Rasdian Aisyah (2017)
 ---
 Powered by GitHub Pages
