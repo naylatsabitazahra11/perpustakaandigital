@@ -1,3 +1,7 @@
+Nama    : Nayla Tsabita Zahra
+NIM     : 13040124140127
+Kelas   : C
+
 # Hello, Knowledge Seekers!
 Selamat datang di perpustakaan digital Athena'sCherry.
 
